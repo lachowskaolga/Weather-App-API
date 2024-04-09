@@ -1,0 +1,28 @@
+body {
+  min-height: 100vh;
+  background: #ffedda;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  box-sizing: border-box;
+}
+h1 {
+  color: rgb(17, 0, 58);
+  font-family: "Titan One", cursive;
+  margin-bottom: 20px;
+}
+h5 {
+  color: rgb(17, 0, 58);
+  font-family: "Titan One", cursive;
+  margin-bottom: 20px;
+}
+h6 {
+  color: rgb(17, 0, 58);
+  font-family: "Titan One", cursive;
+  margin-bottom: 20px;
+}
+card-title {
+  font-family: "Titan One", cursive;
+}
